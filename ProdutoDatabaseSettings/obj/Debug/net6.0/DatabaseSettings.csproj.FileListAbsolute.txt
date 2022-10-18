@@ -1,0 +1,12 @@
+E:\ApiMongodbProdutos\APIProdutosAula\ProdutoDatabaseSettings\bin\Debug\net6.0\DatabaseSettings.deps.json
+E:\ApiMongodbProdutos\APIProdutosAula\ProdutoDatabaseSettings\bin\Debug\net6.0\DatabaseSettings.dll
+E:\ApiMongodbProdutos\APIProdutosAula\ProdutoDatabaseSettings\bin\Debug\net6.0\DatabaseSettings.pdb
+E:\ApiMongodbProdutos\APIProdutosAula\ProdutoDatabaseSettings\obj\Debug\net6.0\DatabaseSettings.csproj.AssemblyReference.cache
+E:\ApiMongodbProdutos\APIProdutosAula\ProdutoDatabaseSettings\obj\Debug\net6.0\DatabaseSettings.GeneratedMSBuildEditorConfig.editorconfig
+E:\ApiMongodbProdutos\APIProdutosAula\ProdutoDatabaseSettings\obj\Debug\net6.0\DatabaseSettings.AssemblyInfoInputs.cache
+E:\ApiMongodbProdutos\APIProdutosAula\ProdutoDatabaseSettings\obj\Debug\net6.0\DatabaseSettings.AssemblyInfo.cs
+E:\ApiMongodbProdutos\APIProdutosAula\ProdutoDatabaseSettings\obj\Debug\net6.0\DatabaseSettings.csproj.CoreCompileInputs.cache
+E:\ApiMongodbProdutos\APIProdutosAula\ProdutoDatabaseSettings\obj\Debug\net6.0\DatabaseSettings.dll
+E:\ApiMongodbProdutos\APIProdutosAula\ProdutoDatabaseSettings\obj\Debug\net6.0\refint\DatabaseSettings.dll
+E:\ApiMongodbProdutos\APIProdutosAula\ProdutoDatabaseSettings\obj\Debug\net6.0\DatabaseSettings.pdb
+E:\ApiMongodbProdutos\APIProdutosAula\ProdutoDatabaseSettings\obj\Debug\net6.0\ref\DatabaseSettings.dll
